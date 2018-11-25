@@ -14,6 +14,7 @@ class Song
       else 
         song.artist = self
     end
+  end
 
   
   def self.all
